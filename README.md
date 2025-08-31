@@ -1,6 +1,6 @@
 # Ubuntu NVIDIA Suspend/Resume Fix – "Failed to enable link training"
 
-## 📚 Table of Contents
+## Table of Contents
 - [Problem Description](#problem-description)
 - [Root Cause](#root-cause)
 - [Solution](#solution)
@@ -125,6 +125,6 @@ This repo exists to help others who face the same frustrating bug.
 
 ---
 
-## 🙏 Thanks
+## Thanks
 Thanks to the Linux community (forums, Reddit, GitHub issues) where this workaround was discovered and refined.  
 
