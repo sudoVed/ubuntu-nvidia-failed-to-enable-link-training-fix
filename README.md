@@ -1,5 +1,12 @@
 # Ubuntu NVIDIA Suspend/Resume Fix – "Failed to enable link training"
 
+> ## ⚠️ Disclaimer
+> This fix is specific to **Intel processors** and addresses a very specific suspend/resume faulty interaction between **NVIDIA GPUs** and **Ubuntu Linux**:  
+> *“Failed to enable link training”*  
+>  
+> If you’re on **AMD Ryzen** or experiencing different suspend/graphics issues, this solution likely won’t work for you.
+
+
 ## Table of Contents
 - [Problem Description](#problem-description)
 - [Root Cause](#root-cause)
